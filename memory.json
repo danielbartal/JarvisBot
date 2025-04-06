@@ -1,0 +1,10 @@
+{
+    "user_name": "Your Name",
+    "short_term_memory": [],
+    "long_term_memory": {
+        "favorite_topics": [],
+        "important_facts": {},
+        "interaction_history": []
+    },
+    "last_interaction": ""
+}
